@@ -1,0 +1,153 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SG Check\n"
+"POT-Creation-Date: 2018-05-08 20:30+0430\n"
+"PO-Revision-Date: 2018-05-08 20:24+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: sg-check.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: core.php:16 core.php:17
+msgid "تستر سورس گاردین"
+msgstr ""
+
+#: core.php:35
+msgid "متاسفانه دسترسی به اطلاعات سرور محدود شده است !"
+msgstr ""
+
+#: core.php:36
+msgid "برای اطمینان از لودرها از هاستینگ خود سوال بفرمایید."
+msgstr ""
+
+#: core.php:37 core.php:67
+#, php-format
+msgid "آخرین نسخه فعلی نسخه %s می باشد."
+msgstr ""
+
+#: core.php:48
+msgid "لودرهای سورس گاردین نصب نشده اند !"
+msgstr ""
+
+#: core.php:49 core.php:66
+msgid "با هاستینگ خود تماس بگیرید"
+msgstr ""
+
+#: core.php:50 core.php:68
+msgid "اطلاعات بیشتر"
+msgstr ""
+
+#: core.php:57
+msgid "نسخه سورس گاردین:"
+msgstr ""
+
+#: core.php:64
+msgid "نسخه لودر سورس گاردین قدیمی است !"
+msgstr ""
+
+#: core.php:65
+msgid "پیشنهاد می شود لودر سورس گاردین را بروزرسانی کنید."
+msgstr ""
+
+#: core.php:77
+msgid "لودرهای سورس گاردین بروز هستند"
+msgstr ""
+
+#: core.php:78
+msgid "موفق باشید !"
+msgstr ""
+
+#: core.php:89
+msgid "نرم افزار سرور"
+msgstr ""
+
+#: core.php:93
+msgid "نسخه PHP"
+msgstr ""
+
+#: core.php:94
+msgid "تابع phpversion() در دسترس نیست !"
+msgstr ""
+
+#: core.php:97
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: core.php:98 core.php:102 core.php:106 core.php:122
+msgid "تابع ini_get() در دسترس نیست !"
+msgstr ""
+
+#: core.php:101
+msgid "PHP Time Limit"
+msgstr ""
+
+#: core.php:102
+msgid " ثانیه"
+msgstr ""
+
+#: core.php:105
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: core.php:109
+msgid "SUHOSIN"
+msgstr ""
+
+#: core.php:113
+msgid "نسخه MySQL"
+msgstr ""
+
+#: core.php:117
+msgid "Max Upload Size"
+msgstr ""
+
+#: core.php:121
+msgid "Display Errors"
+msgstr ""
+
+#: core.php:142
+msgid "وضعیت سورس گاردین"
+msgstr ""
+
+#: core.php:174
+msgid "The Source Guardian Check plugin has been successfully activated"
+msgstr ""
+
+#: core.php:176
+msgid "Click to view status"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SG Check"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://nasimnet.ir/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"By this plugin you can determine the Source Guardian is installed on the "
+"server or not"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "NasimNet"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://nasimnet.ir"
+msgstr ""

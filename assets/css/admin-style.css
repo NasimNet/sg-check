@@ -1,0 +1,45 @@
+/* SG Check admin style */
+.postbox {
+	margin-top: 20px;
+}
+.sgcheck-status-table {
+	border-collapse: collapse;
+}
+.sgcheck-status-table h2 {
+    margin: 0;
+}
+.sgcheck-status-table tr {
+	border-bottom: 1px solid #eee;
+}
+.sgcheck-status-table tr:nth-child(2n) {
+	background-color: #f9f9f9;
+}
+#sg-content {
+    color: rgb(119, 119, 119);
+    text-align: center;
+    width: 50%;
+    border-radius: 5px;
+    margin: 50px auto;
+    padding: 15px;
+}
+.red {
+    color: #dd2727;
+}
+.orange {
+    color: #b8a500;
+}
+.green {
+    color: #3f960a;
+}
+.icon-sg {
+  font-size: 70px;
+  height: auto;
+  margin-top: 10px;
+  width: auto;
+}
+.pad10 {
+    padding: 10px;
+}
+.margin-0 {
+    margin: 0
+}
