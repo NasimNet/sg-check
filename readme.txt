@@ -2,14 +2,14 @@
 author: NasimNet
 Contributors: nasimnet
 Donate link: https://nasimnet.ir/
-Tags: SourceGuardian, SourceGuardian Loader, check
-Requires at least: 4.0
-Tested up to: 4.9.5
-Stable tag: 1.2
+Tags: SourceGuardian, Source Guardian Loader, check
+Requires at least: 5.0
+Tested up to: 5.3
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-با این افزونه می توانید نسخه لودر سورس گاردین سرور خود را بررسی کنید.
+With this plugin you can check the version of your server's Source Guardian loader.
 
 == Description ==
 
@@ -33,10 +33,15 @@ By this plugin you can determine the Source Guardian is installed on the server 
 
 == Changelog ==
 
+= 1.3 =
+* update source Guardian version
+* edit language function
+* minor fixes
+
 = 1.2 =
-* بروزرسانی نسخه سورس گاردین
-* اضافه شدن اطلاعات سرور
-* تغییر برخی از توابع
+* update source Guardian version
+* add server information
+* change some functions
 
 = 1.1 =
 * minor fixes

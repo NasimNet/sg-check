@@ -1,15 +1,15 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 "Project-Id-Version: SG Check\n"
-"POT-Creation-Date: 2019-12-07 19:07+0330\n"
-"PO-Revision-Date: 2018-05-08 20:24+0430\n"
+"POT-Creation-Date: 2019-12-07 18:46+0330\n"
+"PO-Revision-Date: 2019-12-07 18:46+0330\n"
 "Last-Translator: \n"
 "Language-Team: \n"
+"Language: fa_IR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
 "X-Generator: Poedit 2.2.4\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-Flags-xgettext: --add-comments=translators:\n"
@@ -23,135 +23,137 @@ msgstr ""
 
 #: core.php:16 core.php:17
 msgid "Source Guardian Cheker"
-msgstr ""
+msgstr "تستر سورس گاردین"
 
 #: core.php:35
 msgid "Unfortunately, server information cannot be accessed!"
-msgstr ""
+msgstr "متاسفانه دسترسی به اطلاعات سرور امکان پذیر نمی باشد !"
 
 #: core.php:36
 msgid "Contact your hosting provider for more information"
-msgstr ""
+msgstr "برای اطلاعات بیشتر با هاستینگ خود تماس بگیرید"
 
 #: core.php:37 core.php:66
 #, php-format
 msgid "The latest version is the current version of %s."
-msgstr ""
+msgstr "آخرین نسخه ، نسخه %s است."
 
 #: core.php:48
 msgid "Source Guardian Loader is not installed !"
-msgstr ""
+msgstr "لودر سورس گاردین نصب نشده است !"
 
 #: core.php:49
 msgid "Ask your host to install and enable it for you"
-msgstr ""
+msgstr "از هاستینگ خود بخواهید تا آن را برای شما نصب و فعال کند."
 
 #: core.php:50 core.php:67
 msgid "more information"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #: core.php:57
 msgid "Source Guardian Version : "
-msgstr ""
+msgstr "نسخه سورس گاردین : "
 
 #: core.php:64
 msgid "Source Guardian version is outdated !"
-msgstr ""
+msgstr "لودر سورس گاردین قدیمی است !"
 
 #: core.php:65
 msgid "Ask your hosting provider to update the Source Guardian loader."
-msgstr ""
+msgstr "از هاستینگ خود بخواهید تا لودر سورس گاردین را برای شما بروزرسانی کند."
 
 #: core.php:76
 msgid "congratulations ! Source Guardian loaders are up to date"
-msgstr ""
+msgstr "تبریک ! لودر سورس گاردین بروز است ."
 
 #: core.php:77
 msgid "Good luck !"
-msgstr ""
+msgstr "موفق باشید!"
 
 #: core.php:88
 msgid "Server Software"
-msgstr ""
+msgstr "نرم افزار سرور"
 
 #: core.php:92
 msgid "PHP version"
-msgstr ""
+msgstr "نسخه PHP"
 
 #: core.php:93
 msgid "phpversion() function not available!"
-msgstr ""
+msgstr "تابع phpversion() در دسترس نیست !"
 
 #: core.php:96
 msgid "PHP Post Max Size"
-msgstr ""
+msgstr "PHP Post Max Size"
 
 #: core.php:97 core.php:101 core.php:105 core.php:121
-msgid "Ini_get() function not available!"
-msgstr ""
+msgid "Ini_get () function not available!"
+msgstr "تابع Ini_get() در دسترس نیست !"
 
 #: core.php:100
 msgid "PHP Time Limit"
-msgstr ""
+msgstr "PHP Time Limit"
 
 #: core.php:101
 msgid "Seconds"
-msgstr ""
+msgstr "ثانیه"
 
 #: core.php:104
 msgid "PHP Max Input Vars"
-msgstr ""
+msgstr "PHP Max Input Vars"
 
 #: core.php:108
 msgid "SUHOSIN"
-msgstr ""
+msgstr "SUHOSIN"
 
 #: core.php:112
 msgid "MySQL Version"
-msgstr ""
+msgstr "نسخه MySQL"
 
 #: core.php:116
 msgid "Max Upload Size"
-msgstr ""
+msgstr "Max Upload Size"
 
 #: core.php:120
 msgid "Display Errors"
-msgstr ""
+msgstr "نمایش خطاها"
 
 #: core.php:141
 msgid "Source Guardian status"
-msgstr ""
+msgstr "وضعیت سورس گاردین"
 
 #: core.php:155
 msgid "Server Information"
-msgstr ""
+msgstr "اطلاعات سرور"
 
 #: core.php:173
 msgid "The Source Guardian Check plugin has been successfully activated"
-msgstr ""
+msgstr "افزونه تستر سورس گاردین با موفقیت نصب و فعال شد."
 
 #: core.php:175
 msgid "Click to view status"
-msgstr ""
+msgstr "برای مشاهده وضعیت کلیک کنید"
 
 #. Plugin Name of the plugin/theme
 msgid "SG Check"
-msgstr ""
+msgstr "تستر سورس گاردین"
 
 #. Plugin URI of the plugin/theme
 msgid "https://nasimnet.ir/"
-msgstr ""
+msgstr "https://nasimnet.ir/"
 
 #. Description of the plugin/theme
 msgid ""
-"With this plugin you can check the version of your server's Source "
-"Guardian loader."
+"With this plugin you can check the version of your server's Source Guardian "
+"loader."
 msgstr ""
+"با این افزونه می توانید از وضعیت لودر سورس گاردین بر روی هاست خود مطلع شوید."
 
 #. Author of the plugin/theme
 msgid "NasimNet"
-msgstr ""
+msgstr "نسیم نت"
 
 #. Author URI of the plugin/theme
+#| msgid "https://nasimnet.ir/"
 msgid "https://nasimnet.ir"
-msgstr ""
+msgstr "https://nasimnet.ir"
